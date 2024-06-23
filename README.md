@@ -1,38 +1,62 @@
-# create-svelte
+# Frontend Mentor - URL Shortening API landing page solution
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+![Project Image](./assets/img/landing.jpg)
 
-## Creating a project
+This is a solution to the [URL shortening api landing page challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Table of contents
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- [Frontend Mentor - URL Shortening API landing page solution](#frontend-mentor---url-shortening-api-landing-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [License](#license)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Overview
 
-## Developing
+### Screenshot
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+**TODO**
 
-```bash
-npm run dev
+### Links
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- Live Site URL: **TODO**
 
-## Building
+## My process
 
-To create a production version of your app:
+### Built with
 
-```bash
-npm run build
-```
+**TODO**
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### What I learned
+
+**TODO**
+
+### Continued development
+
+**TODO**
+
+### Useful resources
+
+- [Find Nearest Tailwind Colour](https://find-nearest-tailwind-colour.netlify.app/) - Useful to find the nearest Tailwind colour that matches the given specs.
+- [HSLtoRGB](https://colordesigner.io/convert/hsltorgb)
+
+## Author
+
+- Frontend Mentor - [@gowikel](https://www.frontendmentor.io/profile/gowikel)
+- Linkedin - [@gowikel](https://www.linkedin.com/in/gowikel/)
+
+
+## License
+
+This project is licensed under the Unlicense, a public domain equivalent license that allows you to freely use, modify, distribute, and do whatever you want with the project's code, with no restrictions.
+
+However, it's important to note that the code within `assets/frontendmentor` is licensed by [Frontend Mentor](https://www.frontendmentor.io/) and requires their explicit permission for use, not falling under the Unlicense. They are included in this repository for convenience, but careful steps have been taken to prevent their display or distribution.
