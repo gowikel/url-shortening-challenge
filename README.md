@@ -48,6 +48,7 @@ This is a solution to the [URL shortening api landing page challenge](https://ww
 
 - [Find Nearest Tailwind Colour](https://find-nearest-tailwind-colour.netlify.app/) - Useful to find the nearest Tailwind colour that matches the given specs.
 - [HSLtoRGB](https://colordesigner.io/convert/hsltorgb)
+- [StackOverflow - How to make a unique layout for the main page?](https://stackoverflow.com/questions/72311812/how-to-make-a-unique-layout-for-the-main-page#answer-72311828) - I didn't know how to create share a layout with some pages, but not others. While this is not important in this app, it was a question that I had. More detailed information can be found in the [official docs](https://kit.svelte.dev/docs/advanced-routing#advanced-layouts-group)
 
 ## Author
 
